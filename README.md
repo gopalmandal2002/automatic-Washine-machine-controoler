@@ -22,10 +22,10 @@ state transitions from Idle to Spin.
 - Fully verified using testbench and waveform analysis
 
 ## 🧩 RTL Schematic
-![RTL Schematic](schematic/rtl_schematic.png)
+![RTL Schematic](https://github.com/gopalmandal2002/automatic-Washine-machine-controoler/blob/main/Screenshot%202025-12-13%20211110.png)
 
 ## 📊 Simulation Waveform
-![Simulation Waveform](simulation/waveform.png)
+![Simulation Waveform]((https://github.com/gopalmandal2002/automatic-Washine-machine-controoler/blob/main/Screenshot%202025-12-13%20205119.png))
 
 ## 🧪 Verification
 - Self-written testbench
