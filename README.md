@@ -14,6 +14,9 @@ state transitions from Idle to Spin.
 - RINSE
 - SPIN
 
+## FSM Diagram
+![FSM diagram ]()
+
 ## ⚙️ Features
 - Mode-based timing control
 - Lid safety pause mechanism
