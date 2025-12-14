@@ -25,7 +25,7 @@ state transitions from Idle to Spin.
 ![RTL Schematic](https://github.com/gopalmandal2002/automatic-Washine-machine-controoler/blob/main/Screenshot%202025-12-13%20211110.png)
 
 ## 📊 Simulation Waveform
-![Simulation Waveform]((https://github.com/gopalmandal2002/automatic-Washine-machine-controoler/blob/main/Screenshot%202025-12-13%20205119.png))
+![Simulation Waveform](https://github.com/gopalmandal2002/automatic-Washine-machine-controoler/blob/main/Screenshot%202025-12-13%20205119.png)
 
 ## 🧪 Verification
 - Self-written testbench
