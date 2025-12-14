@@ -37,8 +37,8 @@ state transitions from Idle to Spin.
 
 ## 🛠 Tools Used
 - Verilog HDL
-- Vivado / ModelSim
-- GTKWave (optional)
+- Vivado 
+  
 
 ## 👨‍💻 Author
 **Gopal Mandal**  
