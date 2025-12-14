@@ -15,7 +15,7 @@ state transitions from Idle to Spin.
 - SPIN
 
 ## FSM Diagram
-![FSM diagram ]()
+![FSM diagram ](https://github.com/gopalmandal2002/automatic-Washine-machine-controoler/blob/main/WhatsApp%20Image%202025-12-14%20at%2010.50.17%20AM.jpeg)
 
 ## ⚙️ Features
 - Mode-based timing control
